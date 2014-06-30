@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "clr_DeleteFile", "clr_DeleteFile\clr_DeleteFile.sqlproj", "{2BC7C741-4DDB-4C2C-9BC4-4BEC52C7C1DE}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "FileProperties", "FileProperties\FileProperties.sqlproj", "{FA18CF21-ADBB-49F2-AAC1-F0EFAC369D71}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "RenameFile", "RenameFile\RenameFile.sqlproj", "{29B95EDA-4117-4C0B-82C8-041FFEFC1D54}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs2010.libertytax.net:8080/tfs/liberty
+		SccProjectUniqueName0 = clr_DeleteFile\\clr_DeleteFile.sqlproj
+		SccProjectName0 = clr_DeleteFile
+		SccLocalPath0 = clr_DeleteFile
+		SccProjectUniqueName1 = FileProperties\\FileProperties.sqlproj
+		SccProjectName1 = FileProperties
+		SccLocalPath1 = FileProperties
+		SccProjectUniqueName2 = RenameFile\\RenameFile.sqlproj
+		SccProjectName2 = RenameFile
+		SccLocalPath2 = RenameFile
+		SccLocalPath3 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BC7C741-4DDB-4C2C-9BC4-4BEC52C7C1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC7C741-4DDB-4C2C-9BC4-4BEC52C7C1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC7C741-4DDB-4C2C-9BC4-4BEC52C7C1DE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2BC7C741-4DDB-4C2C-9BC4-4BEC52C7C1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC7C741-4DDB-4C2C-9BC4-4BEC52C7C1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC7C741-4DDB-4C2C-9BC4-4BEC52C7C1DE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FA18CF21-ADBB-49F2-AAC1-F0EFAC369D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA18CF21-ADBB-49F2-AAC1-F0EFAC369D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA18CF21-ADBB-49F2-AAC1-F0EFAC369D71}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FA18CF21-ADBB-49F2-AAC1-F0EFAC369D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA18CF21-ADBB-49F2-AAC1-F0EFAC369D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA18CF21-ADBB-49F2-AAC1-F0EFAC369D71}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{29B95EDA-4117-4C0B-82C8-041FFEFC1D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B95EDA-4117-4C0B-82C8-041FFEFC1D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29B95EDA-4117-4C0B-82C8-041FFEFC1D54}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{29B95EDA-4117-4C0B-82C8-041FFEFC1D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B95EDA-4117-4C0B-82C8-041FFEFC1D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29B95EDA-4117-4C0B-82C8-041FFEFC1D54}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SqlCommandVariables xmlns="urn:Microsoft.VisualStudio.Data.Schema.Package.SqlCmdVars">
+  <Version>1.0</Version>
+  <Properties>
+    <Property>
+      <PropertyName>Environment</PropertyName>
+      <PropertyValue>Unknown</PropertyValue>
+    </Property>
+    <Property>
+      <PropertyName>Version</PropertyName>
+      <PropertyValue>2.1.1.0</PropertyValue>
+    </Property>
+  </Properties>
+</SqlCommandVariables>

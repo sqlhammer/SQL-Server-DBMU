@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Utility", "Databases\Utility\Utility\Utility.sqlproj", "{D4C122F0-D758-41CB-97C8-3730B186F7BC}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CentralUtility", "Databases\CentralUtility\CentralUtility\CentralUtility.sqlproj", "{AB43DBD2-3B13-4D39-8DE4-81FD4483EF9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Management Console", "Management Console\Management Console.csproj", "{19377FA1-3B21-40EB-B950-74076E2DDADE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AB43DBD2-3B13-4D39-8DE4-81FD4483EF9B} = {AB43DBD2-3B13-4D39-8DE4-81FD4483EF9B}
+		{D4C122F0-D758-41CB-97C8-3730B186F7BC} = {D4C122F0-D758-41CB-97C8-3730B186F7BC}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.libertytax.net:8080/tfs/liberty
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Databases\\Utility\\Utility\\Utility.sqlproj
+		SccProjectName1 = Databases/Utility/Utility
+		SccLocalPath1 = Databases\\Utility\\Utility
+		SccProjectUniqueName2 = Databases\\CentralUtility\\CentralUtility\\CentralUtility.sqlproj
+		SccProjectName2 = Databases/CentralUtility/CentralUtility
+		SccLocalPath2 = Databases\\CentralUtility\\CentralUtility
+		SccProjectUniqueName3 = Management\u0020Console\\Management\u0020Console.csproj
+		SccProjectName3 = Management\u0020Console
+		SccLocalPath3 = Management\u0020Console
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4C122F0-D758-41CB-97C8-3730B186F7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C122F0-D758-41CB-97C8-3730B186F7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C122F0-D758-41CB-97C8-3730B186F7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C122F0-D758-41CB-97C8-3730B186F7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4C122F0-D758-41CB-97C8-3730B186F7BC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AB43DBD2-3B13-4D39-8DE4-81FD4483EF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB43DBD2-3B13-4D39-8DE4-81FD4483EF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB43DBD2-3B13-4D39-8DE4-81FD4483EF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB43DBD2-3B13-4D39-8DE4-81FD4483EF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB43DBD2-3B13-4D39-8DE4-81FD4483EF9B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{19377FA1-3B21-40EB-B950-74076E2DDADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19377FA1-3B21-40EB-B950-74076E2DDADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19377FA1-3B21-40EB-B950-74076E2DDADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19377FA1-3B21-40EB-B950-74076E2DDADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

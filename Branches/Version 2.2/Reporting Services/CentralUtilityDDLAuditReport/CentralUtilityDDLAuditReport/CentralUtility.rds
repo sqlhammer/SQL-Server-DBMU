@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CentralUtility">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=v-dev-db-008;Initial Catalog=CentralUtility</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source CentralUtility</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>bb0d9f7d-c51d-42d1-834e-83b8223f134e</DataSourceID>
+</RptDataSource>

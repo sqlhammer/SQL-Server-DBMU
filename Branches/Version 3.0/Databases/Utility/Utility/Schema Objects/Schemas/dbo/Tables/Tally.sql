@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Tally]
+(
+	[N] INT NOT NULL,
+	CONSTRAINT PK_Tally_N PRIMARY KEY CLUSTERED (N)
+)

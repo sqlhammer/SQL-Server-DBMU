@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "CentralUtilityDDLAuditReport", "CentralUtilityDDLAuditReport\CentralUtilityDDLAuditReport.rptproj", "{5E2E1F1A-1FF1-4C3C-A520-B868DC45A42C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E2E1F1A-1FF1-4C3C-A520-B868DC45A42C}.Debug|Default.ActiveCfg = Debug
+		{5E2E1F1A-1FF1-4C3C-A520-B868DC45A42C}.Debug|Default.Build.0 = DebugLocal
+		{5E2E1F1A-1FF1-4C3C-A520-B868DC45A42C}.Debug|Default.Deploy.0 = DebugLocal
+		{5E2E1F1A-1FF1-4C3C-A520-B868DC45A42C}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{5E2E1F1A-1FF1-4C3C-A520-B868DC45A42C}.DebugLocal|Default.Build.0 = DebugLocal
+		{5E2E1F1A-1FF1-4C3C-A520-B868DC45A42C}.Release|Default.ActiveCfg = Release
+		{5E2E1F1A-1FF1-4C3C-A520-B868DC45A42C}.Release|Default.Build.0 = Release
+		{5E2E1F1A-1FF1-4C3C-A520-B868DC45A42C}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

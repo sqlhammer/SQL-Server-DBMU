@@ -1,0 +1,8 @@
+﻿CREATE TABLE [Lookup].[KeyTypes]
+(
+	[KeyTypeID] INT IDENTITY(1,1) NOT NULL,
+	[KeyTypeDesc] VARCHAR(50) NOT NULL
+)
+GO
+ALTER TABLE [Lookup].[KeyTypes] ADD CONSTRAINT PK_Lookup_KeyTypes_KeyTypeID PRIMARY KEY CLUSTERED ([KeyTypeID])
+GO

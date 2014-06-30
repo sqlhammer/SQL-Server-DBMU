@@ -1,0 +1,1 @@
+﻿CREATE ROLE [UtilityAdmin] AUTHORIZATION [dbo];

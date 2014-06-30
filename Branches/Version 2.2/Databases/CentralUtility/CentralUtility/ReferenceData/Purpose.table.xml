@@ -1,0 +1,15 @@
+﻿<purposes>
+  <purpose Purpose="Active Directory"/>
+  <purpose Purpose="Application"/>
+  <purpose Purpose="Content"/>
+  <purpose Purpose="Build Machine"/>
+  <purpose Purpose="Database"/>
+  <purpose Purpose="FTP"/>
+  <purpose Purpose="Network"/>
+  <purpose Purpose="Practice"/>
+  <purpose Purpose="Storage"/>
+  <purpose Purpose="Team Foundation"/>
+  <purpose Purpose="Terminal"/>
+  <purpose Purpose="Tax Prep Software"/>
+  <purpose Purpose="Web"/>
+</purposes>

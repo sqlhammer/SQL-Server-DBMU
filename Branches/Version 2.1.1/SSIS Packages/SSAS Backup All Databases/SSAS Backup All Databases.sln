@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "SSAS Backup All Databases", "SSAS Backup All Databases\SSAS Backup All Databases.dtproj", "{059CCC91-A479-4A46-AF0A-9BB24B97E665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{059CCC91-A479-4A46-AF0A-9BB24B97E665}.Development|Default.ActiveCfg = Development
+		{059CCC91-A479-4A46-AF0A-9BB24B97E665}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

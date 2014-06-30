@@ -1,0 +1,1 @@
+﻿EXEC sp_addextendedproperty @name='DatabaseVersion', @value ='$(Version)'

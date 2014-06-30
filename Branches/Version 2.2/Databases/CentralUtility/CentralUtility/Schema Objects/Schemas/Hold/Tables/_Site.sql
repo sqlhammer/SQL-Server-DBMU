@@ -1,0 +1,8 @@
+﻿CREATE TABLE [Hold].[_Site]
+(
+	[SiteID] bigint IDENTITY(1,1) NOT NULL,
+	[Site] varchar(100) NOT NULL
+)
+GO
+ALTER TABLE [Hold].[_Site] ADD CONSTRAINT PK_Hold__Site_SiteID PRIMARY KEY CLUSTERED ([SiteID] ASC)
+GO

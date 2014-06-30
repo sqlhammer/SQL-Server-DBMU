@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CentralUtility", "CentralUtility\CentralUtility.sqlproj", "{AB43DBD2-3B13-4D39-8DE4-81FD4483EF9B}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs2010.libertytax.net:8080/tfs/liberty
+		SccProjectUniqueName0 = CentralUtility\\CentralUtility.sqlproj
+		SccProjectName0 = CentralUtility
+		SccAuxPath0 = http://tfs2010.libertytax.net:8080/tfs/liberty
+		SccLocalPath0 = CentralUtility
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB43DBD2-3B13-4D39-8DE4-81FD4483EF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB43DBD2-3B13-4D39-8DE4-81FD4483EF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB43DBD2-3B13-4D39-8DE4-81FD4483EF9B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AB43DBD2-3B13-4D39-8DE4-81FD4483EF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB43DBD2-3B13-4D39-8DE4-81FD4483EF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB43DBD2-3B13-4D39-8DE4-81FD4483EF9B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

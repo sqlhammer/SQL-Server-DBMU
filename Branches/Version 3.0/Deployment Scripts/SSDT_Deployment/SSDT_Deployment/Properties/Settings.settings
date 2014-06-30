@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SsdtDeployment.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SqlPackageExeLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files (x86)\Microsoft SQL Server\110\DAC\bin\SqlPackage.exe</Value>
+    </Setting>
+    <Setting Name="DataFileFolderName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data</Value>
+    </Setting>
+    <Setting Name="PrePublishReportFilename" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PrePublishReport.xml</Value>
+    </Setting>
+    <Setting Name="DriftReportFilename" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DriftReport.xml</Value>
+    </Setting>
+    <Setting Name="ScriptFilename" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">VisualStudioDbProjectScript.sql</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
